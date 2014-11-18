@@ -24,6 +24,7 @@ public class Employee {
     */
    public String getName() {
       return myName;
+      // Versió 3
    }
    
    /**
