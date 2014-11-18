@@ -49,6 +49,7 @@ public class Employee {
     */
    public void setSalary(double salary) {
       mySalary = salary;
+      // +++++
    }
    
    /**
